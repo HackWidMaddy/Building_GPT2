@@ -1,0 +1,2 @@
+label,n_params,final_train_loss,final_val_loss,best_val_loss,total_time_s,cfg_n_layers,cfg_n_heads,cfg_emb_dim,cfg_lr,cfg_epochs,cfg_context_len
+Baseline,28920832,3.1984,4.8837,4.765,183.1,4,4,256,0.001,10,128
